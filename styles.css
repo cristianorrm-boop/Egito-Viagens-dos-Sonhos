@@ -1,0 +1,75 @@
+
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+nav{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 50px;
+    margin-left: 50px;  
+}
+
+main {
+    display: inline-block;
+    margin: 0 0 0 250px;          
+}   
+
+#tapiro {
+    cursor: pointer;
+}
+
+#tuta {
+    margin-left: 150px;  
+    cursor: pointer;
+}
+
+p{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100px;
+    cursor: pointer;
+}   
+
+#button1 {
+    background: #adff00;
+    border-radius: 30px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 50px;
+    cursor: pointer;
+    color: #2f4f4f; 
+}
+
+#button2 {
+    background: #665ae9;
+    border-radius: 40px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 50px;
+    cursor: pointer;
+    color: #2F4F4F;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
