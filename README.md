@@ -1,16 +1,29 @@
+# Egito: Viagens dos Sonhos ✨
 
-<h1>Egito: Viagens dos Sonhos ✨</h1>
-<br>
-<br>
-<h2>Esse foi um projeto que aprendi no <a href=https://www.devclub.com.br>DevClub</a></h2>
-<h2>🚀 Tecnologias Utilizadas</h2>
+**Meu primeiro projeto de desenvolvimento web** - Uma jornada de aprendizado pelo mundo da programação!
 
-<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </div>
-<br>
-<p>
-Meu primeiro projeto de desenvolvimento web - Uma jornada de aprendizado pelo mundo da programação!
+Este projeto marca o início da minha trajetória como desenvolvedor, criado durante o curso do **[DevClub](https://www.devclub.com.br)**, onde dei meus primeiros passos no universo do desenvolvimento front-end.
 
-Este projeto marca o início da minha trajetória como desenvolvedor, criado durante o curso do DevClub
-</p>
-<img src="
-https://github.com/cristianorrm-boop/Egito-Viagens-dos-Sonhos/blob/master/desktop.Egito.png?raw=true />
+## 🚀 Tecnologias Utilizadas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+## 📱 Demonstração
+
+![Prévia do Projeto](https://github.com/cristianorrm-boop/Egito-Viagens-dos-Sonhos/blob/master/desktop.Egito.png?raw=true)
+
+## 📖 Sobre o Projeto
+
+O "Egito: Viagens dos Sonhos" é uma landing page desenvolvida como exercício prático para aplicar os conceitos fundamentais de HTML e CSS. O site apresenta um destino turístico fascinante - o Egito - combinando elementos visuais atrativos com uma estrutura semântica limpa.
+
+## 🎯 Objetivos do Projeto
+
+- ✅ Aprender a estrutura básica de um documento HTML
+- ✅ Praticar a estilização com CSS
+- ✅ Desenvolver uma página responsiva
+- ✅ Trabalhar com imagens e elementos multimídia
+- ✅ Implementar uma navegação simples e intuitiva
+
