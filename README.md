@@ -23,7 +23,5 @@ O "Egito: Viagens dos Sonhos" é uma landing page desenvolvida como exercício p
 
 - ✅ Aprender a estrutura básica de um documento HTML
 - ✅ Praticar a estilização com CSS
-- ✅ Desenvolver uma página responsiva
-- ✅ Trabalhar com imagens e elementos multimídia
 - ✅ Implementar uma navegação simples e intuitiva
 
