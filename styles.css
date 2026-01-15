@@ -1,9 +1,17 @@
-
-*{
+* {
     font-family: "Roboto", sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    background-color: #F5E6CA;
+}
+
+header {
+    background-color: #D4A55E;
+    padding: 20px 0;
 }
 
 h1 {
@@ -12,14 +20,36 @@ h1 {
     line-height: 50px;
     text-align: center;
     padding: 20px 20px;
+    color: #5D4037;   
 }
 
-nav{
+nav {
     font-weight: 700;
     font-size: 30px;
     line-height: 30px;
     margin-top: 50px;
     margin-left: 50px;  
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    margin-bottom: 15px;
+}
+
+nav ul li a {
+    color: #8B4513; 
+    text-decoration: none;
+    transition: all 0.3s ease;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+nav ul li a:hover {
+    color: #B35422; 
 }
 
 main {
@@ -29,47 +59,63 @@ main {
 
 #tapiro {
     cursor: pointer;
+    border: 5px solid #B35422; 
+    border-radius: 10px;
+}
+
+#tapiro:hover {
+    transform: scale(1.02);
 }
 
 #tuta {
     margin-left: 150px;  
     cursor: pointer;
+    border: 5px solid #2C5F72; 
+    border-radius: 10px;
 }
 
-p{
+#tuta:hover {
+    transform: scale(1.02);
+}
+
+p {
     font-weight: 700;
     font-size: 30px;
     line-height: 100px;
     cursor: pointer;
+    color: #8B4513; 
+    margin-top: 20px; 
 }   
 
 #button1 {
-    background: #adff00;
+    background: #B35422; 
     border-radius: 30px;
     font-weight: 700;
     font-size: 30px;
     line-height: 50px;
     cursor: pointer;
-    color: #2f4f4f; 
+    color: #FFFFFF; 
+    border: none;
+    padding: 15px 40px;
+}
+
+#button1:hover {
+    background: #9A451E; 
 }
 
 #button2 {
-    background: #665ae9;
+    background: #2C5F72; 
     border-radius: 40px;
     font-weight: 700;
     font-size: 30px;
     line-height: 50px;
     cursor: pointer;
-    color: #2F4F4F;
+    color: #FFFFFF; 
+    border: none;
+    padding: 15px 40px;
     margin-left: 20px;
 }
 
-
-
-
-
-
-
-
-
-
+#button2:hover {
+    background: #234A5A;
+}
