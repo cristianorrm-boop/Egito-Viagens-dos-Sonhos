@@ -13,7 +13,7 @@ Este projeto marca o início da minha trajetória como desenvolvedor, criado dur
 
 ## 📱 Demonstração
 
-![Prévia do Projeto](https://github.com/cristianorrm-boop/Egito-Viagens-dos-Sonhos/blob/master/desktop.Egito.png?raw=true)
+![Prévia do Projeto](https://github.com/cristianorrm-boop/Egito-Viagens-dos-Sonhos/blob/master/assets/desktop.Egito.Novo.png?raw=true)
 
 ## 📖 Sobre o Projeto
 
