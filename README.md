@@ -4,7 +4,7 @@
 
 Este projeto marca o início da minha trajetória como desenvolvedor, criado durante o curso do **[DevClub](https://www.devclub.com.br)**, onde dei meus primeiros passos no universo do desenvolvimento front-end.
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas 
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -13,7 +13,7 @@ Este projeto marca o início da minha trajetória como desenvolvedor, criado dur
 
 ## 📱 Demonstração
 
-![Prévia do Projeto](https://github.com/cristianorrm-boop/Egito-Viagens-dos-Sonhos/blob/master/desktop.Egito.png?raw=true)
+![Prévia do Projeto](https://github.com/cristianorrm-boop/Egito-Viagens-dos-Sonhos/blob/master/assets/desktop.Egito.Novo.png?raw=true)
 
 ## 📖 Sobre o Projeto
 
